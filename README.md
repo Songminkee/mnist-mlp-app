@@ -1,4 +1,4 @@
-[![Run on Ainize](https://ainize.ai/images/run_on_ainize_button.svg)]([https://master-mnist-mlp-app-songminkee.endpoint.ainize.ai](https://master-mnist-mlp-app-songminkee.endpoint.ainize.ai/))
+[![Run on Ainize](https://ainize.ai/images/run_on_ainize_button.svg)](https://master-mnist-mlp-app-songminkee.endpoint.ainize.ai)
 
 # mnist-mlp-app
 
